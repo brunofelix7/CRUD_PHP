@@ -1,0 +1,27 @@
+/*Formatação do index*/
+table.table td.a form.a{
+    margin: 0px;
+}
+
+html{
+    margin-top: 0px;
+    padding: 20px;
+}
+
+body{
+    background: url(../imagem/lp3.jpg) no-repeat top center;
+    background-size: cover;
+}
+
+h1.a{
+    color:dodgerblue;
+}
+
+input.form-control{
+    width: 250px;
+}
+
+a.a{
+    text-decoration: none;
+    color: white;
+}
